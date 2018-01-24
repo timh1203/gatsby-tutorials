@@ -1,2 +1,0 @@
-# gatsbytutorials
-Courses > Gatsby Tutorial
